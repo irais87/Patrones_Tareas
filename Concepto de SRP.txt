@@ -1,0 +1,3 @@
+El Principio de Responsabilidad Única (Single Responsibility Principle, SRP) es uno de los cinco principios SOLID de la programación orientada a objetos. El SRP establece que una clase debe tener una única razón para cambiar, es decir, debe tener una única responsabilidad o propósito dentro del sistema. Esto significa que cada clase o módulo en un software debe enfocarse en una parte específica del comportamiento o funcionalidad del sistema.
+
+Al seguir este principio, el código se vuelve más fácil de mantener y escalar, ya que los cambios en una funcionalidad específica solo afectarán a la clase o módulo responsable de esa función.
